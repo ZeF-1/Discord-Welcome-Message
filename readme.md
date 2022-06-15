@@ -7,7 +7,7 @@
 
 An easy to setup and easy to use Welcome System Bot for Discord.js with the package `canvas`
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/kas7)
 
 ## Installation | How to use the Bot
 
